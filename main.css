@@ -5,3 +5,16 @@ body {
 h1 {
     text-align: center;
 }
+
+ul {
+  list-style: square;
+  text-transform: uppercase;
+}
+
+ul p {
+  font-size: 1.2rem;
+  text-decoration: underline;
+  background-color: lightgray;
+  display: inline-block;
+  padding: .3rem;
+}
