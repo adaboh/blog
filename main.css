@@ -14,7 +14,7 @@ ul {
 ul p {
   font-size: 1.2rem;
   text-decoration: underline;
-  background-color: lightgray;
+  background-color: rgba(232,201,37,1);
   display: inline-block;
   padding: .3rem;
 }
